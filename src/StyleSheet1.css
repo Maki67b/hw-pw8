@@ -1,0 +1,103 @@
+body{
+    color:#70757a;
+}
+.full {
+ 
+  margin: 15px auto;
+  display: block;
+  max-width:630px;
+}
+.box{
+ border: 1px solid;
+  border-radius: 5px;
+  padding: 30px;
+}
+h2,#status{
+    color: #202124;
+
+}
+#form-input {
+  width: 100%;
+  margin:0;
+  padding:0;
+}
+.col-2{
+    text-align:center;
+}
+#status-pic{
+    text-align:center;
+    margin:0 auto;
+    display:block;
+    padding:10px;
+}
+h2,h5{
+    text-align:center;
+}
+ul{
+    list-style-type:none;
+    padding:0;
+    margin:0;
+    
+    font-size:16px;
+}
+
+.hw p {
+   text-align:left;
+}
+.lh p {
+    
+    text-align:right;
+}
+ul #wind,ul #humidity{
+    font-size:13px;
+    padding:0;
+}
+
+#z{
+    text-align:center;
+}
+
+
+.detail{
+   
+    display:inline-block;
+    text-align:center;
+    margin:0 auto;
+    width:100%;
+    padding:0;   
+}
+
+#floatLeft,#descript{
+    display:inline;
+}
+
+#now{
+    font-weight:bold;
+     font-size:40px;
+     margin-right:5px;
+}
+#descript{
+    font-size:20px;
+    font-weight:bold;
+    margin-right:20px;
+}
+
+.temp {
+  font-size: 20px;
+  
+  margin: 0 auto;
+  text-align:center;
+}
+.temp p{
+    display:inline-block;
+    padding:20px;
+}
+.pic img {
+  display: inline;
+  float: left;
+
+ 
+}
+#pic{
+    width:80%;
+}
